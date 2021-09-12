@@ -1,0 +1,26 @@
+body{
+	background-color: white;
+	font-size: 15px;
+}
+
+h1{
+	color : dimgray;
+	background-color: snow;
+}
+
+ .html_title, .sns {
+	width: 50%;
+	padding: 2% 0%;
+}
+
+
+.html_title{
+	text-align: left;
+	font-size: 150%;
+	padding-left: 2%;
+}
+
+.sns{
+	text-align: right;
+	padding-right: 2%;
+}
