@@ -31,10 +31,23 @@ div{
 	color : dimgray;
 	background-color: lavenderblush;
 	text-align: center;
+	padding: 2%;	
 }
 
 .hobby{
 	color : dimgray;
 	background-color: honeydew;
-	text-align: center;	
+	text-align: center;
+	padding: 2%;	
+}	
+
+.skill{
+	color : dimgray;
+	background-color: #f4eaff;
+	text-align: left;
+	padding: 2%;	
+}
+
+.skill_title{
+	font-weight: bold;
 }
